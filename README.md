@@ -1,6 +1,7 @@
 # Dog-Breed-Classifier
 
-􏰁* Built a Multiclass-Multilabel image Classifier using Transfer Learning and TensorFlow 2.0 to Classify different dog breeds.
+
+* 􏰁Built a Multiclass-Multilabel image Classifier using Transfer Learning and TensorFlow 2.0 to Classify different dog breeds.
 􏰁
 * Imported, reshaped, and converted images to Tensors to achieve faster processing speed while training and testing Deep Learning Models.
 
